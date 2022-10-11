@@ -44,3 +44,10 @@ a {
 p {
  color: #555;
 } 
+
+.row {
+ display: flex;
+ align-items: center;
+ flex-wrap: wrap;
+ justify-content: space-around;
+} 
