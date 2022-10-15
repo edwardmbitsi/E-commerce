@@ -151,4 +151,7 @@ h4 {
 .col-4 p {
     font-size: 14px;
   }
-  
+ 
+.rating .fas {
+    color: #ff523b;
+  }
