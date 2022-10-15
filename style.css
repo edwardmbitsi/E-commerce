@@ -163,4 +163,8 @@ h4 {
   .col-4:hover {
     transform: translateY(-5px);
   }
-  
+
+  .categories {
+    margin: 70px 0;
+  }
+
