@@ -266,3 +266,8 @@ h4 {
     filter: grayscale(100%);
   }
   
+ .col-5 img:hover {
+    width: 100%;
+    cursor: pointer;
+    filter: grayscale(0);
+  }
