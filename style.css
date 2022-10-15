@@ -155,3 +155,12 @@ h4 {
 .rating .fas {
     color: #ff523b;
   }
+
+.rating .far {
+    color: #ff523b;
+  }
+  
+  .col-4:hover {
+    transform: translateY(-5px);
+  }
+  
