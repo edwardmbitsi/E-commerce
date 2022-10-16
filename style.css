@@ -222,9 +222,9 @@ h4 {
  font-weight: normal;
 }
   
- .col-4 p {
-    font-size: 14px;
-  }
+.col-4 p {
+ font-size: 14px;
+}
   
 .rating .fas {
  color: #ff523b;
@@ -232,11 +232,11 @@ h4 {
   
 .rating .far {
  color: #ff523b;
- }
+}
  
-  .col-4:hover {
-    transform: translateY(-5px);
-  }
+.col-4:hover {
+ transform: translateY(-5px);
+}
   
  /* Offer */
   
