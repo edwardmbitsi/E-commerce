@@ -453,3 +453,8 @@ h4 {
     margin-left: 10px;
   }
   
+ .small-img-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
