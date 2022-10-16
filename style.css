@@ -443,3 +443,8 @@ h4 {
     margin-right: 10px;
     border: 1px solid #ff523b;
   }
+  
+  input:focus {
+    outline: none;
+  }
+  
