@@ -404,3 +404,8 @@ h4 {
     line-height: 40px;
     cursor: pointer;
   }
+ 
+  .page-btn span:hover {
+    background: #ff523b;
+    color: #ffffff;
+  }
