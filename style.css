@@ -301,3 +301,8 @@ h4 {
 .footer-col-1 {
     flex-basis: 30%;
   }
+ 
+  .footer-col-2 {
+    flex: 1;
+    text-align: center;
+  }
