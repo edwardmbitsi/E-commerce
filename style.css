@@ -423,3 +423,9 @@ h4 {
  .single-product .col-2 {
     padding: 20px;
   }
+ 
+  .single-product h4 {
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+  }
