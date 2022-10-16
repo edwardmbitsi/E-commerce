@@ -153,20 +153,20 @@ h4 {
 }
  
 .rating .fas {
-    color: #ff523b;
-  }
+ color: #ff523b;
+}
 
 .rating .far {
-    color: #ff523b;
-  }
+ color: #ff523b;
+}
   
-  .col-4:hover {
-    transform: translateY(-5px);
-  }
+.col-4:hover {
+ transform: translateY(-5px);
+}
 
-  .categories {
-    margin: 70px 0;
-  }
+.categories {
+ margin: 70px 0;
+}
 
   
   .col-3 {
