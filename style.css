@@ -448,3 +448,8 @@ h4 {
     outline: none;
   }
   
+.single-product .fas {
+    color: #ff523b;
+    margin-left: 10px;
+  }
+  
