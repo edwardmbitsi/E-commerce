@@ -382,3 +382,7 @@ h4 {
     margin: 100px auto 50px;
   }
   
+ select {
+    border: 1px solid #ff523b;
+    padding: 5px;
+  }
