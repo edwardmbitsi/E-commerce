@@ -366,3 +366,12 @@ h4 {
       margin-bottom: 10px;
     }
    
+ nav ul li a {
+      color: #fff;
+    }
+    .menu-icon {
+      display: block;
+      cursor: pointer;
+    }
+  }
+  
