@@ -409,3 +409,9 @@ h4 {
     background: #ff523b;
     color: #ffffff;
   }
+ 
+  /* single product details */
+  
+  .single-product {
+    margin-top: 80px;
+  }
