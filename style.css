@@ -454,9 +454,9 @@ select:focus {
   }
   
 .single-product .fas {
-    color: #ff523b;
-    margin-left: 10px;
-  }
+ color: #ff523b;
+ margin-left: 10px;
+}
   
 .small-img-row {
  display: flex;
