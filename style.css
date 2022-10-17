@@ -409,10 +409,10 @@ select:focus {
     cursor: pointer;
   }
  
-  .page-btn span:hover {
-    background: #ff523b;
-    color: #ffffff;
-  }
+.page-btn span:hover {
+ background: #ff523b;
+ color: #ffffff;
+}
  
   /* single product details */
   
