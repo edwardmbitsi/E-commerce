@@ -449,9 +449,9 @@ select:focus {
     border: 1px solid #ff523b;
   }
   
-  input:focus {
-    outline: none;
-  }
+input:focus {
+ outline: none;
+}
   
 .single-product .fas {
  color: #ff523b;
