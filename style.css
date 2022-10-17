@@ -440,14 +440,14 @@ select:focus {
     padding: 10px;
     margin-top: 20px;
   }
-  .single-product input {
-    width: 50px;
-    height: 40px;
-    padding-left: 10px;
-    font-size: 20px;
-    margin-right: 10px;
-    border: 1px solid #ff523b;
-  }
+.single-product input {
+ width: 50px;
+ height: 40px;
+ padding-left: 10px;
+ font-size: 20px;
+ margin-right: 10px;
+ border: 1px solid #ff523b;
+}
   
 input:focus {
  outline: none;
