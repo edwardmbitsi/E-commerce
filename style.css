@@ -470,3 +470,7 @@ input:focus {
 }
   
 /* cart items */
+.cart-page {
+    margin: 90px auto;
+}
+  
