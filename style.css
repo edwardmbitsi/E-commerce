@@ -474,3 +474,7 @@ input:focus {
     margin: 90px auto;
 }
   
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
