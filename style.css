@@ -497,3 +497,7 @@ table {
     height: 30px;
     padding: 5px;
   }
+ td a {
+    color: #ff523b;
+    font-size: 12px;
+  }
